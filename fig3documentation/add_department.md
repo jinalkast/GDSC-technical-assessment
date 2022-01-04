@@ -1,4 +1,4 @@
 # add_department
-| **Method** | **Description** | 
+| **Method** | **Return** | 
 | ----------- | ----------- |
 | post | Takes an employee id and returns the name, department_name, and salary of the employee in a JSON object |
