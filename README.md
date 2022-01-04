@@ -1,2 +1,3 @@
 # GDSC-technical-assessment
-Organizer Assessment 
+## Organizer Assessment 
+All documentation can be found in the "fig3documentation" folder
